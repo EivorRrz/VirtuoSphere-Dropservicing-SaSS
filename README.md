@@ -63,6 +63,7 @@ Ensure you have the following installed:
    ```bash
    npm install
    ```
-4.Run the development server:
+4. Run the development server:
    ```bash
    npm start
+   ```
