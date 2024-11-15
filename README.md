@@ -35,7 +35,6 @@ Experience VirtuoSphere live: [VirtuoSphere Demo](https://virtuosphere.netlify.a
 ## 🛠️ Tech Stack
 
 - **Frontend**: TypeScript, React.js, Sass
-- **Backend**: Node.js
 - **Payment Gateway**: Stripe Integration
 
 ---
