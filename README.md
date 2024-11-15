@@ -55,6 +55,14 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/virtuosphere.git
-2: **Navigate to the project directory**:
+2. Navigate to the project directory:
    ```bash
    cd virtuosphere
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4.Run the development server:
+   ```bash
+   npm start
